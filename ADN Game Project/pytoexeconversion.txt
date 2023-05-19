@@ -1,0 +1,10 @@
+C:\Users\HP\AppData\Local\Programs\Python\Python310
+
+algo 
+shift left + right mouse button click
+open windows power shell on the above mentioned directory path
+
+code:
+pyinstaller --onefile -w filename.py
+
+the content will be in the dist file
